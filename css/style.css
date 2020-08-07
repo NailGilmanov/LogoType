@@ -129,11 +129,11 @@ a {
   display: inline-block;
   font-size: 2vh;
   padding: 15px;
-  /* transition: .5s; */
+  transition: .5s;
 }
 
 .nav-item:hover {
-  border: 1px solid #FFC222;
+  color: #FFC222;
 }
 
 .active {
